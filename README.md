@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo Fontenele Dev front end  
+### Olá! Eu sou o Gustavo Fontenele.
 - 🔭 Densenvolvedor Front-End
 - 🌱 Estudando Html/Css/Javascript
 - 
