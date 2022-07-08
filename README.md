@@ -24,6 +24,4 @@
   
 </div>
   
-<img href="https://raw.githubusercontent.com/gustavo/gustavo/blob/output/snake.svg" alt="Snake animation" />
 
-###
