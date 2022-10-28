@@ -1,13 +1,15 @@
 ### Olá! Eu sou o Gustavo Fontenele.
 - 🔭 Densenvolvedor Front-End
-- 🌱 Estudando Html/Css/Javascript
+- 🌱 Estudando Html/Css/Saas/Javascript
 <div align="center">
   <a href="https://github.com/Gustavofontenele1">
+  </div>
   <img height="275em" src="https://github-readme-stats.vercel.app/api?username=Gustavofontenele1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavofontenele1&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
-<div style="display: inline_block">Linguagens<br>
+<div align="center" style="display: inline_block"><br>
+    <h3 align="center">Languages and Tools:</h3>
   <img align="center" alt="Guga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Guga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
