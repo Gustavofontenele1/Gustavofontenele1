@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Fontenele.
 - 🔭 Densenvolvedor Front-End
-- 🌱 Estudando Html/Css/Saas/Javascript
+- 🌱 Estudando Html/Css/Sass/Javascript
 <div align="center">
   <a href="https://github.com/Gustavofontenele1">
   </div>
