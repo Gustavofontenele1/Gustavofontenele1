@@ -75,15 +75,6 @@ Atualmente trabalhando na **MEDGRUPO**, contribuindo para:
 
 ---
 
-## 📝 Notas Importantes
-
-✅ Os gráficos são atualizados automaticamente a cada 12 horas  
-✅ Todos os dados são públicos e baseados em seu perfil GitHub  
-✅ Os gráficos incluem commits, pull requests, code reviews e estatísticas de atividade  
-✅ Nenhuma configuração adicional necessária
-
----
-
 ## 🎯 Projetos e Experiência
 
 ### **MEDGRUPO** (Empresarial)
